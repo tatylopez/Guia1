@@ -2,5 +2,5 @@
 tarea sobre primitivas y 3D
 
 Integrantes:
-Kenny Judith Machado Lopez
+Kenny Judith Machado Lopez y
 Tatiana Stefany Lopez Umaña
